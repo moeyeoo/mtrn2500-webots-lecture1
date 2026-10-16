@@ -34,7 +34,7 @@ WoodenBox {
   size 0.1 0.1 0.1
 }
 epuck {
-  controller "MyFirstControllerSln"
+  controller "MyFirstController"
   supervisor TRUE
   turretSlot [
     Lidar {
